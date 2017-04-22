@@ -1,0 +1,19 @@
+//
+//  RMCQFloatingToolBarDefine.h
+//  LCThousandsMilesWalking
+//
+//  Created by 刘超 on 15/8/21.
+//  Copyright (c) 2015年 apple. All rights reserved.
+//
+
+typedef enum : NSUInteger {
+	RMCQFLOATINGTOOLBAR_ADD,
+	RMCQFLOATINGTOOLBAR_DELETE,
+} RMCQFLOATINGTOOLBAR_TYPE;
+
+typedef enum : NSUInteger {
+    RMCQFLOATINGTOOLBAR_FNUCTION_ADD,
+    RMCQFLOATINGTOOLBAR_FNUCTION_DELETE,
+    RMCQFLOATINGTOOLBAR_FNUCTION_RESET,
+    
+} RMCQFLOATINGTOOLBAR_FNUCTION_TYPE;
